@@ -1,0 +1,18 @@
+/**
+ * AtlasTraceWrite brand styles.
+ * Primary brand color: #C92428
+ */
+
+:root {
+  --ifm-color-primary: #C92428;
+  --ifm-color-primary-dark: #b52023;
+  --ifm-color-primary-darker: #ab1e22;
+  --ifm-color-primary-darkest: #8d191c;
+  --ifm-color-primary-light: #d93a3e;
+  --ifm-color-primary-lighter: #dc4549;
+  --ifm-color-primary-lightest: #e36c6f;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --ifm-background-color: #FAFAFA;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
