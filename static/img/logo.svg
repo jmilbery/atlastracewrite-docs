@@ -1,5 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="14" fill="#C92428"/>
-  <text x="32" y="26" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">Atlas</text>
-  <text x="32" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle" dominant-baseline="middle">TraceWrite</text>
+  <!-- White rounded background (matching iOS icon shape) -->
+  <rect width="64" height="64" rx="14" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- Ruled paper lines -->
+  <!-- Blue headline -->
+  <line x1="8" y1="20" x2="56" y2="20" stroke="#4A90D9" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Blue dashed midline -->
+  <line x1="8" y1="32" x2="56" y2="32" stroke="#4A90D9" stroke-width="0.75" stroke-opacity="0.4" stroke-dasharray="3,2"/>
+  <!-- Red baseline -->
+  <line x1="8" y1="44" x2="56" y2="44" stroke="#C92428" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Red margin line -->
+  <line x1="14" y1="14" x2="14" y2="52" stroke="#C92428" stroke-width="0.75" stroke-opacity="0.3"/>
+
+  <!-- Light gray traceable letter "A" -->
+  <text x="30" y="43" font-family="system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="28" font-weight="200" fill="#C0C0C0" text-anchor="middle" dominant-baseline="alphabetic">A</text>
+
+  <!-- Red pencil (angled, writing position) -->
+  <!-- Pencil body -->
+  <g transform="translate(42, 26) rotate(35)">
+    <!-- Pencil shaft -->
+    <rect x="-3" y="-22" width="6" height="18" rx="1" fill="#C92428"/>
+    <!-- Pencil band -->
+    <rect x="-3" y="-6" width="6" height="3" fill="#8B1A1D"/>
+    <!-- Pencil tip -->
+    <polygon points="-3,-3 3,-3 0,5" fill="#F5D6A0"/>
+    <!-- Pencil point -->
+    <polygon points="-1,1 1,1 0,5" fill="#333"/>
+    <!-- Pencil top band -->
+    <rect x="-3" y="-22" width="6" height="2.5" rx="1" fill="#D44" opacity="0.5"/>
+  </g>
 </svg>
