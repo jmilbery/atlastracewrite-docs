@@ -20,20 +20,27 @@ Words may appear with a short delay. This is normal — the speech recognizer wa
 While recording, two buttons appear:
 
 - **Yellow pause button** — Pauses the recording without losing your text. Tap the microphone again to resume where you left off.
-- **Red stop button** — Stops the recording. Your transcript is preserved and a **Use This Text** button appears.
+- **Red stop button** — Stops the recording. Your transcript becomes editable and a **Generate Worksheet** button appears.
 
 After stopping, you can:
 - Tap the **microphone** to resume recording and add more words
-- Tap **Use This Text** to move to the Edit step
+- Edit your text directly in the transcript area
+- Use the **pencil icon menu** for formatting tools (see [Editing Text](editing-text))
+- Tap **Generate Worksheet** to create your worksheet
 
 ### Recording States
 
-| State | What's happening |
-|-------|-----------------|
-| **Idle** | Ready to record. Mic button, keyboard button, and templates are visible. |
-| **Recording** | Actively listening. Pause and stop buttons are visible. |
-| **Paused** | Recording is paused but your text is preserved. Resume or stop. |
-| **Stopped** | Recording is finished. Review your text, resume, or move to Edit. |
+| State | What's happening | Buttons visible |
+|-------|-----------------|-----------------|
+| **Idle (no text)** | Ready to record. | Mic, keyboard, templates (list icon) |
+| **Idle (with text)** | Text from a previous session is loaded. | Mic, clear (X), edit (pencil icon) |
+| **Recording** | Actively listening. | Pause, stop |
+| **Paused** | Recording is paused, text is preserved. | Resume mic, stop |
+| **Stopped** | Recording is finished. Text is editable. | Resume mic, clear (X), edit (pencil icon) |
+
+### Editable Transcript
+
+When you stop recording or have existing text, the transcript area becomes a full text editor. You can tap anywhere to place your cursor, select text, and make changes. See [Editing Text](editing-text) for details on the formatting tools available.
 
 ## Using the Keyboard
 
@@ -41,8 +48,12 @@ Tap the **gray keyboard button** to switch to typing mode. A text editor appears
 
 From keyboard mode:
 - Tap the **blue microphone button** to switch back to voice input
-- Use the **orange templates button** to insert a template
-- Tap **Use This Text** when you're done
+- Use the **list button** (orange) to insert a practice template
+- Tap **Generate Worksheet** when you're done
+
+## Text Preservation
+
+Your text is preserved when you navigate back from a generated worksheet. Tap **Start Over** to return to the Speak step — your text will still be in the editable area, ready to tweak and regenerate. Use the **X button** to explicitly clear text when you want to start fresh.
 
 ## Privacy
 

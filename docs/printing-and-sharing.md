@@ -38,6 +38,6 @@ Tap the **print button** (printer icon) to send the worksheet directly to an Air
 - **Use a laser printer** if available — the light gray traceable letters print more consistently on laser printers than inkjet.
 - **Check your ink levels** — very low ink can make the already-light traceable letters invisible.
 
-## Starting Over
+## Going Back to Edit
 
-Tap the **Start Over** button (circular arrow) in the top-left toolbar to clear everything and begin a new worksheet. This resets your text and returns you to the Speak step.
+Tap the **Start Over** button (circular arrow) in the top-left toolbar to return to the Speak step. Your text is preserved — you can make edits and tap **Generate Worksheet** again without re-entering everything. Use the **X button** in the Speak step to clear text and start a completely new worksheet.

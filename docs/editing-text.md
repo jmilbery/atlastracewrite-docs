@@ -5,25 +5,46 @@ title: Editing Text
 
 # Editing Text
 
-After speaking or typing your text, you move to the Edit step where you can review and refine it before generating a worksheet.
+Text editing happens right inside the Speak step — there's no separate editing screen. After you stop recording (or if you return from a generated worksheet), your text appears in an editable area where you can make changes before generating a worksheet.
 
-## The Text Editor
+## The Editable Transcript
 
-Your transcribed (or typed) text appears in a large editable text area. You can:
+When you stop recording or return to the Speak step with existing text, your words appear in a bordered text area. You can:
 
+- **Tap anywhere** to place your cursor and edit
 - **Fix spelling mistakes** or misheard words
 - **Add punctuation** (periods, commas, question marks)
 - **Delete or rearrange** words and sentences
-- **Type additional text** directly into the editor
+- **Type additional text** directly
 
-## Add More Speech
+On iOS 18+, you can also select text and use **Apple Writing Tools** (rewrite, proofread, summarize) from the selection menu.
 
-Need to add more words? Tap the **Add More Speech** button to return to the Speak step. Your existing text is preserved — new speech is appended to the end. When you're done, tap **Use This Text** to return to the editor with all your text combined.
+## Text Editing Tools
+
+When text is present, a **pencil icon button** appears in the button row. Tap it to open the editing menu:
+
+| Tool | What it does |
+|------|-------------|
+| **UPPERCASE** | Converts all text to uppercase letters |
+| **lowercase** | Converts all text to lowercase letters |
+| **Title Case** | Capitalizes the first letter of every word |
+| **Capitalize Sentences** | Capitalizes the first letter after each period, exclamation mark, or question mark |
+| **Fix Spelling** | Automatically corrects misspelled words using Apple's built-in spell checker |
+
+:::tip
+**Capitalize Sentences** is especially useful after speech input, which sometimes produces all-lowercase text. It capitalizes the start of each sentence while leaving the rest of your text unchanged.
+:::
+
+## Adding More Speech
+
+Need to add more words? Tap the **microphone button** to start recording again. New speech is appended to your existing text — nothing is lost.
+
+## Clearing Text
+
+Tap the **X button** (gray circle) to clear all text and start fresh. This is the only way to erase your text — navigating back from a generated worksheet preserves your text so you can make quick edits and regenerate.
 
 ## Generate Worksheet
 
-When your text is ready, tap the **Generate Worksheet** button. This creates a PDF worksheet with your text rendered as light gray traceable letters on ruled paper.
+When your text is ready, tap the green **Generate Worksheet** button at the bottom. This creates a PDF worksheet with your text rendered as traceable letters on ruled paper.
 
-The button is disabled (grayed out) if the text editor is empty — you need at least some text to generate a worksheet.
-
-After generating, you'll move to the Print step where you can preview, share, save, or print your worksheet.
+The button only appears when there is text to generate — it won't show if the text area is empty.

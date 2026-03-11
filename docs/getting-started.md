@@ -6,29 +6,29 @@ title: Getting Started
 
 # Getting Started
 
-AtlasTraceWrite turns spoken words into printable handwriting worksheets. Students speak (or type) their text, edit it, and generate a traceable worksheet on ruled paper — ready to print and practice.
+AtlasTraceWrite turns spoken words into printable handwriting worksheets. Students speak (or type) their text, then generate a traceable worksheet on ruled paper — ready to print and practice.
 
 ## Requirements
 
-- **iPad** running **iOS 17** or later
+- **iPad** running **iOS 17** or later (also runs on Apple Silicon Macs as "Designed for iPad")
 - A working microphone (built-in or external) for speech input
 - A printer that supports **AirPrint** (or save as PDF for later)
 
-## The Three-Step Flow
+## The Two-Step Flow
 
-AtlasTraceWrite follows a simple three-step process:
+AtlasTraceWrite follows a simple two-step process:
 
 ### 1. Speak
 
-Tap the **microphone button** to start speaking. Your words are transcribed in real time. You can also tap the **keyboard button** to type instead, or choose from **practice templates** using the orange menu button.
+Tap the **microphone button** to start speaking. Your words are transcribed in real time. You can also tap the **keyboard button** to type instead, or choose from **practice templates** using the list menu button.
 
-### 2. Edit
+When you're done, your text appears in an editable area where you can fix mistakes, change capitalization, or run a spell check — all without leaving the Speak step. Tap **Generate Worksheet** when your text is ready.
 
-Review and fix your text before generating a worksheet. You can correct mistakes, add punctuation, or change words. If you need more text, tap **Add More Speech** to go back to the microphone.
-
-### 3. Print
+### 2. Print
 
 Your worksheet is generated as a PDF with light gray traceable letters on Zaner-Bloser ruled paper. Use the toolbar buttons to **share**, **save**, or **print** the worksheet.
+
+Want to make changes? Tap **Start Over** to go back — your text is preserved so you can tweak and regenerate without re-entering everything.
 
 ## First Launch
 

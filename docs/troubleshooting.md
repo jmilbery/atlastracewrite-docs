@@ -37,7 +37,11 @@ Open **Settings** (gear icon) and adjust the **Letter Darkness** slider. Move it
 
 ### The font doesn't match how my student learns to write
 
-Check the **Font Style** setting. **Lexend** (the default) uses single-story "a" and "g" letterforms that match standard handwriting instruction. SF Pro Rounded and Raleway use double-story forms that may not match what your student is learning.
+Check the **Font Style** setting. **Lexend** (the default) uses single-story "a" and "g" letterforms that match standard handwriting instruction. **Sassoon Infant** is another good option — it was designed specifically for teaching handwriting. SF Pro Rounded and Raleway use double-story forms that may not match what your student is learning.
+
+### I want dotted outlines instead of solid letters
+
+Open **Settings** and change the **Letter Style** from Solid Fill to **Dotted Outline**. This renders the traceable letters as dashed outlines instead of filled shapes.
 
 ### The ruled lines are too big or too small
 
@@ -69,13 +73,17 @@ Speech recognition uses Apple's built-in framework, which may process audio on-d
 
 ### What data is saved on my device?
 
-Only your settings preferences (grade level, font style, letter darkness) are saved between sessions using standard device storage. No worksheet content, text, or PDFs are retained after you close the app.
+Only your settings preferences (grade level, font style, letter style, letter darkness) are saved between sessions using standard device storage. No worksheet content, text, or PDFs are retained after you close the app.
 
 ## Device Requirements
 
 ### Does AtlasTraceWrite work on iPhone?
 
 AtlasTraceWrite is designed for **iPad only**. It is not available on iPhone.
+
+### Does it work on Mac?
+
+Yes — on Apple Silicon Macs (M1 or later), AtlasTraceWrite runs as a "Designed for iPad" app. It appears in an iPad-sized window. Note that speech input requires a working microphone on your Mac.
 
 ### What iOS version do I need?
 

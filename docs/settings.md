@@ -31,10 +31,22 @@ Choose the font used for the traceable letters:
 | **Lexend** (default) | Designed for reading fluency. Uses single-story "a" and "g" letterforms, which match how most children learn to write these letters. |
 | **SF Pro Rounded** | Apple's rounded system font. Uses double-story "a" and "g". |
 | **Raleway** | A clean geometric sans-serif font. |
+| **Sassoon Infant** | An education font designed by Dr. Rosemary Sassoon specifically for teaching children to read and write. Uses handwriting-friendly letterforms. |
 
 :::tip
-**Lexend** is recommended for most students because its single-story "a" and "g" match standard handwriting instruction. The double-story forms in SF Pro Rounded and Raleway (where "a" has a hood and "g" has a loop) can be confusing for young writers.
+**Lexend** is recommended for most students because its single-story "a" and "g" match standard handwriting instruction. **Sassoon Infant** is another excellent choice — it was designed specifically for early learners. The double-story forms in SF Pro Rounded and Raleway (where "a" has a hood and "g" has a loop) can be confusing for young writers.
 :::
+
+## Letter Style
+
+Choose how the traceable letters are rendered:
+
+| Style | Description |
+|-------|-------------|
+| **Solid Fill** (default) | Letters are filled with a solid light gray color. Students trace directly over the letter shape. |
+| **Dotted Outline** | Letters are drawn as dashed outlines. Students trace along the dotted lines to form each letter. |
+
+Both styles produce effective tracing worksheets — try each to see which works better for your students.
 
 ## Letter Darkness
 
@@ -47,4 +59,4 @@ The default is a light gray that provides a visible guide without overpowering t
 
 ## Live Preview
 
-While Settings is open, the right panel shows a sample worksheet that updates in real time as you change settings. This lets you see exactly how the grade level, font, and darkness will look on a printed worksheet before generating one with your actual text.
+While Settings is open, the right panel shows a sample worksheet that updates in real time as you change settings. This lets you see exactly how the grade level, font, letter style, and darkness will look on a printed worksheet before generating one with your actual text.
