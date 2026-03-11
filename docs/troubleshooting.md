@@ -83,7 +83,7 @@ AtlasTraceWrite is designed for **iPad only**. It is not available on iPhone.
 
 ### Does it work on Mac?
 
-Not currently. AtlasTraceWrite uses iOS-only features (speech recognition, audio session, AirPrint) that don't run on Mac. Mac support may be added in a future update.
+Not yet. AtlasTraceWrite uses iOS-only features (speech recognition, audio session, AirPrint) that require adaptation for macOS. Mac Catalyst support is planned for a future update.
 
 ### What iOS version do I need?
 
