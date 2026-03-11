@@ -83,7 +83,7 @@ AtlasTraceWrite is designed for **iPad only**. It is not available on iPhone.
 
 ### Does it work on Mac?
 
-Yes — on Apple Silicon Macs (M1 or later), AtlasTraceWrite runs as a "Designed for iPad" app. It appears in an iPad-sized window. Note that speech input requires a working microphone on your Mac.
+Not currently. AtlasTraceWrite uses iOS-only features (speech recognition, audio session, AirPrint) that don't run on Mac. Mac support may be added in a future update.
 
 ### What iOS version do I need?
 

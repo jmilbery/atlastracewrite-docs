@@ -10,7 +10,7 @@ AtlasTraceWrite turns spoken words into printable handwriting worksheets. Studen
 
 ## Requirements
 
-- **iPad** running **iOS 17** or later (also runs on Apple Silicon Macs as "Designed for iPad")
+- **iPad** running **iOS 17** or later
 - A working microphone (built-in or external) for speech input
 - A printer that supports **AirPrint** (or save as PDF for later)
 
