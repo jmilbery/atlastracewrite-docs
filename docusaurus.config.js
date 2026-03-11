@@ -4,7 +4,7 @@
 const config = {
   title: 'AtlasTraceWrite',
   tagline: 'Speak it. Edit it. Trace it. Handwriting practice for young learners.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
@@ -69,7 +69,8 @@ const config = {
         title: 'AtlasTraceWrite',
         logo: {
           alt: 'AtlasTraceWrite Logo',
-          src: 'img/logo.svg',
+          src: 'img/app-icon.png',
+          style: { borderRadius: '8px' },
         },
         items: [
           {
