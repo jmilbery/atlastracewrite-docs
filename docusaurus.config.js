@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright ${new Date().getFullYear()} AtlasTraceWrite. All rights reserved.`,
+        copyright: `Copyright ${new Date().getFullYear()} Corgi.Software. All rights reserved.`,
       },
 
       colorMode: {
