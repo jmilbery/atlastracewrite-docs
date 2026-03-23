@@ -57,6 +57,19 @@ A slider that controls how dark or light the traceable letters appear on the wor
 
 The default is a light gray that provides a visible guide without overpowering the student's pencil marks.
 
+## Letter Spacing
+
+A slider that adds extra space between letters on the worksheet:
+
+- **Normal** (left, default) — Standard letter spacing. Letters are positioned naturally.
+- **Wide** (right) — Extra space between each letter (up to 20 points). Helps younger students distinguish individual letters.
+
+A live preview row shows sample letters ("A b C") with the current spacing applied so you can see the effect before generating a worksheet.
+
+## Cursor Width
+
+Controls the thickness of the blinking cursor in the text editor. A wider cursor is easier for young students to see and track. Default is 4 points.
+
 ## Live Preview
 
-While Settings is open, the right panel shows a sample worksheet that updates in real time as you change settings. This lets you see exactly how the grade level, font, letter style, and darkness will look on a printed worksheet before generating one with your actual text.
+While Settings is open, the right panel shows a sample worksheet that updates in real time as you change settings. This lets you see exactly how the grade level, font, letter style, darkness, and spacing will look on a printed worksheet before generating one with your actual text.

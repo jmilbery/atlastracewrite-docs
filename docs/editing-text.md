@@ -19,6 +19,20 @@ When you stop recording or return to the Speak step with existing text, your wor
 
 On iOS 18+, you can also select text and use **Apple Writing Tools** (rewrite, proofread, summarize) from the selection menu.
 
+## Keyboard Navigation Toolbar
+
+When the keyboard is open, a toolbar appears above it with navigation buttons:
+
+| Button | Action |
+|--------|--------|
+| **Line start** (arrow to left line) | Jump to the beginning of the current line |
+| **Word left** (double chevron left) | Move the cursor one word backward |
+| **Word right** (double chevron right) | Move the cursor one word forward |
+| **Line end** (arrow to right line) | Jump to the end of the current line |
+| **Dismiss keyboard** (keyboard down) | Close the keyboard |
+
+These buttons make it easier to navigate and correct text without precisely tapping on individual characters.
+
 ## Text Editing Tools
 
 When text is present, a **pencil icon button** appears in the button row. Tap it to open the editing menu:

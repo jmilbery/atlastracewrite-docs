@@ -73,7 +73,7 @@ Speech recognition uses Apple's built-in framework, which may process audio on-d
 
 ### What data is saved on my device?
 
-Only your settings preferences (grade level, font style, letter style, letter darkness) are saved between sessions using standard device storage. No worksheet content, text, or PDFs are retained after you close the app.
+Your settings preferences (grade level, font style, letter style, letter darkness, letter spacing, cursor width) and your draft text are saved locally between sessions using standard device storage. No PDFs or audio recordings are retained. Your draft text is automatically cleared when you tap the X (clear) button.
 
 ## Device Requirements
 

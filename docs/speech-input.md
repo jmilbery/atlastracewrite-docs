@@ -53,7 +53,9 @@ From keyboard mode:
 
 ## Text Preservation
 
-Your text is preserved when you navigate back from a generated worksheet. Tap **Start Over** to return to the Speak step — your text will still be in the editable area, ready to tweak and regenerate. Use the **X button** to explicitly clear text when you want to start fresh.
+Your text is preserved when you navigate back from a generated worksheet or when you open Settings. Tap **Start Over** to return to the Speak step — your text will still be in the editable area, ready to tweak and regenerate. Use the **X button** to explicitly clear text when you want to start fresh.
+
+Your draft text is also **automatically saved** between sessions. If you close the app and reopen it later, your text will still be there. Tapping the **X button** clears the saved draft.
 
 ## Privacy
 
