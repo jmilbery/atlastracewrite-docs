@@ -30,6 +30,10 @@ Your worksheet is generated as a PDF with light gray traceable letters on Zaner-
 
 Want to make changes? Tap **Start Over** to go back — your text is preserved so you can tweak and regenerate without re-entering everything.
 
+## Saving Documents for Later
+
+You can save any worksheet as a named document and reload it later — useful for building a library of spelling lists, sight-word sets, and custom passages per student. Tap the **gray folder button** in the Speak step to open your library, save the current text, or reload a previous worksheet. See [My Documents](my-documents) for details.
+
 ## First Launch
 
 When you first open the app, you'll be asked to grant **microphone** and **speech recognition** permissions. These are required for the speech-to-text feature to work.

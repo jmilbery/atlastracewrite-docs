@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 title: Troubleshooting & FAQ
 ---
 
@@ -73,7 +73,7 @@ Speech recognition uses Apple's built-in framework, which may process audio on-d
 
 ### What data is saved on my device?
 
-Your settings preferences (grade level, font style, letter style, letter darkness, letter spacing, cursor width) and your draft text are saved locally between sessions using standard device storage. No PDFs or audio recordings are retained. Your draft text is automatically cleared when you tap the X (clear) button.
+Your settings preferences (grade level, font style, letter style, letter darkness, letter spacing, cursor width), your draft text, and any **saved documents** from [My Documents](my-documents) are saved locally between sessions using standard device storage. No PDFs or audio recordings are retained. Your draft text is automatically cleared when you tap the X (clear) button; saved documents are only deleted when you delete them from the library.
 
 ## Device Requirements
 
@@ -92,6 +92,46 @@ iOS 17 or later is required.
 ### The app doesn't work on my managed iPad
 
 School-managed or family iPads with content restrictions may block microphone access for apps installed outside the App Store (such as during testing). The app should work normally when installed via the App Store or TestFlight.
+
+## Saved Documents
+
+### Where are my saved documents?
+
+Saved documents live in the app's private storage on your iPad. Tap the **folder button** in the Speak step to see the list. See [My Documents](my-documents) for full details.
+
+### Can I sync saved documents across iPads?
+
+Not yet — each iPad maintains its own library. iCloud sync is planned for a future release. For now, if you want to share a worksheet across devices, save it as a PDF and use Files or email.
+
+### Can I recover a deleted document?
+
+No. Deletes are permanent. If you frequently re-use a document, use **Save as Copy** to fork a working version before experimenting.
+
+### My text disappeared after loading a saved document
+
+Loading a saved document **replaces** the current text. If you had unsaved changes to another document, they're gone. In the next release we're adding a confirmation prompt before destructive loads.
+
+## Coming Soon
+
+### Guided Spell Check
+
+In a future release, the **Fix Spelling** menu item becomes a step-through wizard designed for kids:
+
+- Find each misspelled word automatically
+- Show the word highlighted in context
+- Offer the top 3 suggestions as big, tap-friendly buttons
+- "Keep as-is" button for correct words the system doesn't recognize (like student names)
+- Persistent "this word is OK" so known proper nouns stop flagging
+
+Target release: next v1.2 update after tester feedback.
+
+### iCloud Sync for Saved Documents
+
+Cross-iPad sync for the [My Documents](my-documents) library — a teacher could save worksheets on a home iPad and load them on a classroom iPad.
+
+### Additional Fonts and Input Modes
+
+Under consideration based on tester feedback. Tell us what you need.
 
 ## Contact Support
 

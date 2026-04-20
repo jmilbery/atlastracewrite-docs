@@ -8,6 +8,7 @@ const sidebars = {
     'editing-text',
     'templates',
     'settings',
+    'my-documents',
     'printing-and-sharing',
     'troubleshooting',
   ],

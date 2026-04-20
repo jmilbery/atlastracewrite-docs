@@ -32,11 +32,15 @@ After stopping, you can:
 
 | State | What's happening | Buttons visible |
 |-------|-----------------|-----------------|
-| **Idle (no text)** | Ready to record. | Mic, keyboard, templates (list icon) |
-| **Idle (with text)** | Text from a previous session is loaded. | Mic, clear (X), edit (pencil icon) |
+| **Idle (no text)** | Ready to record. | Mic, keyboard, templates (list icon), **My Documents (folder)** |
+| **Idle (with text)** | Text from a previous session is loaded. | Mic, clear (X), edit (pencil icon), **My Documents (folder)** |
 | **Recording** | Actively listening. | Pause, stop |
 | **Paused** | Recording is paused, text is preserved. | Resume mic, stop |
-| **Stopped** | Recording is finished. Text is editable. | Resume mic, clear (X), edit (pencil icon) |
+| **Stopped** | Recording is finished. Text is editable. | Resume mic, clear (X), edit (pencil icon), **My Documents (folder)** |
+
+:::tip
+The **folder button** opens your saved documents library. It's hidden during recording to keep controls simple — it reappears as soon as you pause or stop. See [My Documents](my-documents).
+:::
 
 ### Editable Transcript
 
@@ -56,6 +60,8 @@ From keyboard mode:
 Your text is preserved when you navigate back from a generated worksheet or when you open Settings. Tap **Start Over** to return to the Speak step — your text will still be in the editable area, ready to tweak and regenerate. Use the **X button** to explicitly clear text when you want to start fresh.
 
 Your draft text is also **automatically saved** between sessions. If you close the app and reopen it later, your text will still be there. Tapping the **X button** clears the saved draft.
+
+For text you want to keep around and reuse, use **My Documents** (the folder button) — see [My Documents](my-documents). Saved documents are separate from the auto-saved draft: saving a document doesn't remove it from the editor, and clearing the draft doesn't delete any saved documents.
 
 ## Privacy
 
