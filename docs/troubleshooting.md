@@ -37,7 +37,7 @@ Open **Settings** (gear icon) and adjust the **Letter Darkness** slider. Move it
 
 ### The font doesn't match how my student learns to write
 
-Check the **Font Style** setting. **Lexend** (the default) uses single-story "a" and "g" letterforms that match standard handwriting instruction. **Sassoon Infant** is another good option — it was designed specifically for teaching handwriting. SF Pro Rounded and Raleway use double-story forms that may not match what your student is learning.
+Check the **Font Style** setting. **Sassoon Infant** (the default) was designed by Dr. Rosemary Sassoon specifically for teaching children to write — single-story "a" and "g," visible entry and exit strokes that mimic pen flow. **Lexend** is a free alternative with single-story "a" and is optimized for reading fluency; a fine choice if you prefer it. SF Pro Rounded and Raleway use forms that may not match standard handwriting instruction.
 
 ### I want dotted outlines instead of solid letters
 
