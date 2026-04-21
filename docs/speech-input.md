@@ -25,7 +25,7 @@ While recording, two buttons appear:
 After stopping, you can:
 - Tap the **microphone** to resume recording and add more words
 - Edit your text directly in the transcript area
-- Use the **pencil icon menu** for formatting tools (see [Editing Text](editing-text))
+- Edit the text directly — tap to place your cursor and type (see [Editing Text](editing-text))
 - Tap **Generate Worksheet** to create your worksheet
 
 ### Recording States
@@ -33,10 +33,10 @@ After stopping, you can:
 | State | What's happening | Buttons visible |
 |-------|-----------------|-----------------|
 | **Idle (no text)** | Ready to record. | Mic, keyboard, templates (list icon), **My Documents (folder)** |
-| **Idle (with text)** | Text from a previous session is loaded. | Mic, clear (X), edit (pencil icon), **My Documents (folder)** |
+| **Idle (with text)** | Text from a previous session is loaded. | Mic, clear (X), **My Documents (folder)** |
 | **Recording** | Actively listening. | Pause, stop |
 | **Paused** | Recording is paused, text is preserved. | Resume mic, stop |
-| **Stopped** | Recording is finished. Text is editable. | Resume mic, clear (X), edit (pencil icon), **My Documents (folder)** |
+| **Stopped** | Recording is finished. Text is editable. | Resume mic, clear (X), **My Documents (folder)** |
 
 :::tip
 The **folder button** opens your saved documents library. It's hidden during recording to keep controls simple — it reappears as soon as you pause or stop. See [My Documents](my-documents).

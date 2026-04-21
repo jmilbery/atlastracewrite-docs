@@ -22,7 +22,7 @@ AtlasTraceWrite follows a simple two-step process:
 
 Tap the **microphone button** to start speaking. Your words are transcribed in real time. You can also tap the **keyboard button** to type instead, or choose from **practice templates** using the list menu button.
 
-When you're done, your text appears in an editable area where you can fix mistakes, change capitalization, or run a spell check — all without leaving the Speak step. Tap **Generate Worksheet** when your text is ready.
+When you're done, your text appears in an editable area where you can fix mistakes and make changes directly — all without leaving the Speak step. Tap **Generate Worksheet** when your text is ready.
 
 ### 2. Print
 

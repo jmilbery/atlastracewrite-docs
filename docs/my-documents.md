@@ -9,7 +9,7 @@ title: My Documents
 
 ## Opening the Library
 
-Tap the **gray folder button** in the Speak step. It's always visible when you're idle — you'll find it alongside the microphone, keyboard, templates (orange), and edit (pencil) buttons.
+Tap the **gray folder button** in the Speak step. It's always visible when you're idle — you'll find it alongside the microphone, keyboard, and templates (orange) buttons.
 
 The folder button is hidden while you're actively recording so it doesn't get in the way.
 

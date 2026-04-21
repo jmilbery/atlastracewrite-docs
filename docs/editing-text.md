@@ -33,20 +33,12 @@ When the keyboard is open, a toolbar appears above it with navigation buttons:
 
 These buttons make it easier to navigate and correct text without precisely tapping on individual characters.
 
-## Text Editing Tools
+## Text Editing
 
-When text is present, a **pencil icon button** appears in the button row. Tap it to open the editing menu:
+Edit directly in the transcript area — tap anywhere to place your cursor, select words to cut or copy, and type to replace. The iPad keyboard's built-in features are available: hold the **Shift** key for capitals, tap the **Caps Lock** indicator to type uppercase continuously, and use the keyboard's autocorrect suggestions to fix typos as you go.
 
-| Tool | What it does |
-|------|-------------|
-| **UPPERCASE** | Converts all text to uppercase letters |
-| **lowercase** | Converts all text to lowercase letters |
-| **Title Case** | Capitalizes the first letter of every word |
-| **Capitalize Sentences** | Capitalizes the first letter after each period, exclamation mark, or question mark |
-| **Fix Spelling** | Automatically corrects misspelled words using Apple's built-in spell checker |
-
-:::tip
-**Capitalize Sentences** is especially useful after speech input, which sometimes produces all-lowercase text. It capitalizes the start of each sentence while leaving the rest of your text unchanged.
+:::note
+An earlier pencil-icon menu offered bulk actions (UPPERCASE, lowercase, Title Case, Fix Spelling) was removed in v1.2 after simplifying the Speak step. A new **Guided Spell Check** wizard designed for kids is coming in the next release — see [Coming Soon](troubleshooting#guided-spell-check).
 :::
 
 ## Adding More Speech

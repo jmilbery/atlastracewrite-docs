@@ -115,7 +115,7 @@ Loading a saved document **replaces** the current text. If you had unsaved chang
 
 ### Guided Spell Check
 
-In a future release, the **Fix Spelling** menu item becomes a step-through wizard designed for kids:
+The next release adds a dedicated **Check Spelling** button — a step-through wizard designed for kids:
 
 - Find each misspelled word automatically
 - Show the word highlighted in context
