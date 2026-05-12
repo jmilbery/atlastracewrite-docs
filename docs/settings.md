@@ -7,6 +7,8 @@ title: Settings
 
 Tap the **gear icon** in the top-left toolbar to open Settings. The settings panel replaces the left side of the screen, and a **live preview** of a sample worksheet appears on the right so you can see your changes instantly.
 
+![Settings panel on the left with Grade Level, Letter Style, and Font controls; live preview on the right showing "A a B b C c D d / I can see the big red dog" on Grade 1 ruled paper](/img/screenshots/settings-grade-1.png)
+
 Tap **Done** when you're finished. Your settings are saved automatically and persist between sessions.
 
 ## Grade Level
@@ -21,6 +23,8 @@ Controls the size of the ruled lines on the worksheet. Based on Zaner-Bloser han
 | Grade 4 / Wide Ruled | 3/8 inch | Same as Grade 3 — standard wide ruled |
 
 The grade level also affects which sight words appear in the practice templates.
+
+![Settings with Grade 4 / Wide Ruled selected — the live preview shows smaller writing lines than Grade 1](/img/screenshots/settings-grade-4.png)
 
 ## Font Style
 
@@ -49,6 +53,8 @@ Choose how the traceable letters are rendered:
 Both styles produce effective tracing worksheets — try each to see which works better for your students.
 
 ## Letter Darkness
+
+![Settings scrolled to show the Letter Darkness, Letter Spacing, and Cursor Size sliders, each with a small live-preview swatch underneath](/img/screenshots/settings-sliders.png)
 
 A slider that controls how dark or light the traceable letters appear on the worksheet:
 

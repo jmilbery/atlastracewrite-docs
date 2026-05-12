@@ -13,6 +13,8 @@ Tap the **gray folder button** in the Speak step. It's always visible when you'r
 
 The folder button is hidden while you're actively recording so it doesn't get in the way.
 
+![My Documents picker open over the app, showing the "New Document" action and a saved entry called "Grade 1 Reading - Week 4"](/img/screenshots/my-documents-picker.png)
+
 ## Saving a Document
 
 With some text in the transcript area, tap the folder button and then:

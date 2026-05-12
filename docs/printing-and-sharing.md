@@ -31,6 +31,8 @@ Tap the **save button** (arrow into document) to save the worksheet as a PDF fil
 
 Tap the **print button** (printer icon) to send the worksheet directly to an AirPrint-compatible printer. The standard iPad print dialog appears where you can select your printer, number of copies, and page range.
 
+![iPad AirPrint sheet with a thumbnail of the worksheet on the left and printer, copies, double-sided, paper size, and media options on the right](/img/screenshots/printing-sheet.png)
+
 ## Tips for Best Results
 
 - **Use US Letter paper** (8.5" x 11") for correct sizing — the worksheets are designed for this paper size.

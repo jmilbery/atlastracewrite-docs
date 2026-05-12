@@ -8,6 +8,8 @@ title: Getting Started
 
 AtlasTraceWrite turns spoken words into printable handwriting worksheets. Students speak (or type) their text, then generate a traceable worksheet on ruled paper — ready to print and practice.
 
+![AtlasTraceWrite at launch — left panel prompts "Speak or Type", right panel shows "No Worksheet Yet"](/img/screenshots/getting-started-idle.png)
+
 ## Requirements
 
 - **iPad** running **iOS 17** or later
@@ -24,9 +26,13 @@ Tap the **microphone button** to start speaking. Your words are transcribed in r
 
 When you're done, your text appears in an editable area where you can fix mistakes and make changes directly — all without leaving the Speak step. Tap **Generate Worksheet** when your text is ready.
 
+![Speak step with sample text entered — "Mary had a little lamb…" — and a blue "Generate Worksheet" button below the transcript](/img/screenshots/getting-started-text-entered.png)
+
 ### 2. Print
 
 Your worksheet is generated as a PDF with light gray traceable letters on Zaner-Bloser ruled paper. Use the toolbar buttons to **share**, **save**, or **print** the worksheet.
+
+![Generated worksheet on Zaner-Bloser ruled paper showing "Mary had a little lamb…" in light gray traceable letters](/img/screenshots/getting-started-worksheet.png)
 
 Want to make changes? Tap **Start Over** to go back — your text is preserved so you can tweak and regenerate without re-entering everything.
 
